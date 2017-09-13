@@ -44,7 +44,7 @@ body {
 
 .row {
 margin-right: 0px;
-margin-left: -15px;
+margin-left: 0px;
 }
 
 .navbar-default {
@@ -171,6 +171,7 @@ a:focus {
 	margin-top: 0px;
 	padding-top: 40px;
 	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
 	text-align: center;
 }
 
@@ -192,7 +193,7 @@ a:focus {
 	background: #ffffff;
 	margin-top: 0px;
 	padding-top: 40px;
-	border-bottom: 1px solid #ddd;
+	border-bottom: 0px solid #ddd;
 	text-align: center;
 }
 
